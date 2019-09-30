@@ -13,3 +13,5 @@ Any organisation which needs to build a Devops platform for supporting multiple 
 10. Multi-tenancy User Experience - Integrated GUI Environment
 11. Building the CICD Pipelines and Image repository for Multi-tenancy.
 
+
+Reference Design Document : http://bit.ly/K8sMultitenancyBldgBlks 
