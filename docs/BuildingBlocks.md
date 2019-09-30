@@ -1,4 +1,4 @@
-Any organisation which needs to build a Devops platform for multitenancy using Kubernetes might need to involve the below building blocks :
+Any organisation which needs to build a Devops platform for supporting multiple tenants onboarding their own resources using Kubernetes cluster would need to involve the below building blocks.
 
 
 1. Multi-Tenant Onboarding to Cluster
